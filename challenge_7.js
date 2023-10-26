@@ -1,3 +1,4 @@
+// The function below returns true if the input string has no duplicate characters and false if it does.
 function unique(str) {
   let distinctItems = new Set();
 
